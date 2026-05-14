@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Grama-Vaxi</string>
+
+    <!-- Main Screen -->
+    <string name="my_animals">My Animals</string>
+    <string name="vaccination_calendar">Vaccination Calendar</string>
+    <string name="upcoming_camps">Upcoming Camps</string>
+    <string name="disease_reports">Disease Reports</string>
+    <string name="add_animal">Add Animal</string>
+
+    <!-- Register Animal -->
+    <string name="register_animal">Register Animal</string>
+    <string name="animal_name">Animal Name</string>
+    <string name="animal_type">Animal Type</string>
+    <string name="breed">Breed</string>
+    <string name="age_months">Age (in months)</string>
+    <string name="tag_number">Tag Number</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="owner_phone">Owner Phone</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="select_photo">Select from Gallery</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Animal Types -->
+    <string name="sheep">Sheep</string>
+    <string name="goat">Goat</string>
+    <string name="cow">Cow</string>
+    <string name="buffalo">Buffalo</string>
+
+    <!-- Vaccination -->
+    <string name="next_vaccination">Next Vaccination</string>
+    <string name="vaccination_history">Vaccination History</string>
+    <string name="add_vaccination">Add Vaccination</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="vaccine_type">Vaccine Type</string>
+    <string name="administered_date">Administered Date</string>
+    <string name="next_due_date">Next Due Date</string>
+    <string name="camp_location">Camp Location</string>
+
+    <!-- Camp Details -->
+    <string name="camp_date">Camp Date</string>
+    <string name="camp_time">Camp Time</string>
+    <string name="veterinarian">Veterinarian</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="vaccines_available">Vaccines Available</string>
+
+    <!-- Disease Report -->
+    <string name="report_disease">Report Disease</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="severity">Severity</string>
+    <string name="mild">Mild</string>
+    <string name="moderate">Moderate</string>
+    <string name="severe">Severe</string>
+    <string name="notify_vet">Notify Veterinarian</string>
+
+    <!-- Messages -->
+    <string name="animal_registered">Animal registered successfully</string>
+    <string name="vaccination_added">Vaccination record added</string>
+    <string name="camp_added">Camp scheduled successfully</string>
+    <string name="disease_reported">Disease reported to veterinarian</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="fill_all_fields">Please fill all required fields</string>
+
+    <!-- Notifications -->
+    <string name="vaccination_reminder">Vaccination Reminder</string>
+    <string name="camp_alert">Vaccination Camp Alert</string>
+
+    <!-- Common -->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="view_details">View Details</string>
+    <string name="no_data">No data available</string>
+    <string name="loading">Loading…</string>
+</resources>
