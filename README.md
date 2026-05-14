@@ -40,5 +40,4 @@ It focuses on preventing livestock loss caused by missed vaccination camps and l
 _Add screenshots inside `/screenshots` folder._
 
 ```md
-![Dashboard](screenshots/dashboard.png)
-![Animal Details](screenshots/animal_details.png)
+![Dashboard](dashboard.png)
